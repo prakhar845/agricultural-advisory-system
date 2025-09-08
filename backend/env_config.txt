@@ -1,0 +1,5 @@
+DATABASE_URL=mysql+pymysql://root:password@localhost:3306/agricultural_advisory
+OPENWEATHER_API_KEY=your_openweather_api_key_here
+SECRET_KEY=MbxWtPI0iUKGW9W1xLFlipbqwN-nFXyTCT_QzcTIECQ
+ALGORITHM=HS256
+ACCESS_TOKEN_EXPIRE_MINUTES=30
