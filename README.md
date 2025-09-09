@@ -225,15 +225,11 @@ npm run build
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Support
+## Contributing
+Contributions are welcome! If you have suggestions for improvements, new analysis ideas, or bug fixes, please:
 
-For support and questions, please contact the development team or create an issue in the repository.
-
-## Roadmap
-
-- [ ] Mobile app development
-- [ ] Advanced weather forecasting
-- [ ] Integration with IoT sensors
-- [ ] Market price predictions
-- [ ] Multi-language support
-- [ ] Advanced analytics dashboard
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/your-feature-name).
+3. Make your changes and commit them (git commit -m 'Add new feature').
+4. Push to the branch (git push origin feature/your-feature-name).
+5. Open a Pull Request.
